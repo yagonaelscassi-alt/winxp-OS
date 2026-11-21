@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35193466/README.md)
 # WinXP-OS
 
 Sistema operativo experimental en C con aspecto de Windows XP (cielo, colina verde, barra de tareas azul, botón Inicio verde, ventana). Kernel de 32 bits, arranque Multiboot con GRUB, gráficos por framebuffer lineal 800x600x32.
